@@ -10,9 +10,8 @@ const Home = () => {
 
   return(
     <main className="page-container">
-
+      
       <section className="cover">
-
         <div className="left">
           <p>
             We made the Italy future
@@ -41,9 +40,7 @@ const Home = () => {
             </div>
           </div>
         </div>
-
       </section>
-
 
       <div className="cta-section">
         <Fade>
@@ -67,6 +64,7 @@ const Home = () => {
           </div>
         </Fade>
       </div>
+
     </main>
   )
 }
